@@ -1,0 +1,7 @@
+{
+  "name": "LONE.LK - Smart Micro-Loans",
+  "description": "A modern loan platform offering quick loans from ₹5,000 to ₹2,50,000 with AI-powered financial advisory and real-time EMI calculators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
